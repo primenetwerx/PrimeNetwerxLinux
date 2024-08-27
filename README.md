@@ -1,7 +1,9 @@
 ### PrimeNetwerx Linux
 
 Based on Porteus v5.01
-As few changes as possible to the base OS. 
+
+As few changes as possible to the base OS.
+
 Changes are done through modules.
 
 **Added:**
