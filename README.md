@@ -1,9 +1,10 @@
 ### PrimeNetwerx Linux
 
 **Lightweight, Fast & functional, Immutable Linux System.**
+
 Based on Porteus v5.01.  
 As few changes as possible to the base system.  
-Changes are done through modules.
+Changes are done through scripts & modules.
 
 **Included:**
 - PaleMoon Web Browser (Chosen for small size)
