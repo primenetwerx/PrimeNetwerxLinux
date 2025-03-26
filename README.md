@@ -1,5 +1,6 @@
 ### PrimeNetwerx Linux
 
+**Lightweight, Fast & functional, Immutable Linux System.**
 Based on Porteus v5.01.  
 As few changes as possible to the base system.  
 Changes are done through modules.
@@ -21,4 +22,4 @@ Changes are done through modules.
 - OnlyOffice - Full Office Suite
 - Zen Browser - Modern & Secure Web Browser
 
-**Customized full Theme & Desktop Effects**
+**Customized Theme & Desktop Effects**
