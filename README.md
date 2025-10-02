@@ -1,26 +1,27 @@
 ### PrimeNetwerx Linux
 
-**Lightweight, Ligtning Fast, Portable & Immutable - Linux Operating System**
+**Ultra Lightweight, Ligtning Fast, Portable & Immutable - Linux Operating System**
 
-Based on Latest Porteus v5  
+Based on the Latest Porteus Linux.
 As few changes as possible to the base system.  
 Changes are done through scripts & modules.
 
 **Included:**
-- PaleMoon Web Browser (Chosen for small size)
-- Aditional File System support
+- Additional File System support
+- clonezilla - Disk Cloning and Imaging
+- nano - CLI Text Editor
 - btop - CLI System Monitor
 - htop - CLI System Monitor
 - axel - Download Accelerator
-- clonezilla - Disk Cloning and Imaging
 - fish shell  -  Friendly CLI Shell
 - hardinfo - System Info and Profiler
-- nano - CLI Text Editor
 
-**Automatic AppImage Installations:**
+**On-Demand AppImage Installations:**
 - AppImage Pool - AppImageHub Package Manager
+- PaleMoon Browser - Small & Secure Browser
+- Zen Browser - Modern & Secure Web Browser
 - LibreOffice - Full Office Suite
 - OnlyOffice - Full Office Suite
-- Zen Browser - Modern & Secure Web Browser
+- VirtualBox - VM Hypervisor
 
 **Customized Theme & Desktop Effects**
