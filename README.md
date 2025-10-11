@@ -17,11 +17,13 @@ Changes are done through scripts & modules.
 - hardinfo - System Info and Profiler
 
 **On-Demand AppImage Installations:**
+- AppMan - AppImage Package Manager
 - AppImage Pool - AppImageHub Package Manager
 - PaleMoon Browser - Small & Secure Browser
 - Zen Browser - Modern & Secure Web Browser
 - LibreOffice - Full Office Suite
 - OnlyOffice - Full Office Suite
+- VeraCrypt - File Encryption
 - VirtualBox - VM Hypervisor
 
 **Customized Theme & Desktop Effects**
