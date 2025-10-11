@@ -26,10 +26,9 @@ Changes are done through scripts & modules.
 - VirtualBox - VM Hypervisor
 - AppMan - AppImage Package Installer
 
-      Usage:  "appman -q package"
-               -q‎ ‎ ‎ ‎ Querry
+      Usage:   -q‎ ‎ ‎ ‎ Querry
                -i ‎ ‎ ‎ Instal
                -r‎ ‎ ‎ ‎ Remove
-               -E.g. ‎ appman -q browser
+               Eg ‎  "appman -q browser"
 
 **Customized Theme & Desktop Effects**
