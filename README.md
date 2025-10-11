@@ -17,7 +17,6 @@ Changes are done through scripts & modules.
 - hardinfo - System Info and Profiler
 
 **On-Demand AppImage Installations:**
-- AppMan - AppImage Package Manager
 - AppImage Pool - AppImageHub Package Manager
 - PaleMoon Browser - Small & Secure Browser
 - Zen Browser - Modern & Secure Web Browser
@@ -25,5 +24,12 @@ Changes are done through scripts & modules.
 - OnlyOffice - Full Office Suite
 - VeraCrypt - File Encryption
 - VirtualBox - VM Hypervisor
+- AppMan - AppImage Package Installer
+
+      Usage:  "appman -q package"
+               -q‎ ‎ ‎ ‎ Querry
+               -i ‎ ‎ ‎ Instal
+               -r‎ ‎ ‎ ‎ Remove
+               -E.g. ‎ appman -q browser
 
 **Customized Theme & Desktop Effects**
