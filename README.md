@@ -24,11 +24,12 @@ Changes are done through scripts & modules.
 - OnlyOffice - Full Office Suite
 - VeraCrypt - File Encryption
 - VirtualBox - VM Hypervisor
-- AppMan - AppImage Package Installer
+- AppMan - AppImage Package Installer (AppImage list https://portable-linux-apps.github.io/apps)
 
       Usage:   -q‎ ‎ ‎ ‎ Querry
                -i ‎ ‎ ‎ Instal
                -r‎ ‎ ‎ ‎ Remove
                Eg ‎  "appman -q browser"
+
 
 **Customized Theme & Desktop Effects**
