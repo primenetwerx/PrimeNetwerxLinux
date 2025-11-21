@@ -3,9 +3,9 @@
 
 **Ultra Lightweight, Ligtning Fast, Portable & Immutable - Linux Operating System**
 
-Based on the Latest Porteus Linux, with the Cinnamon Desktop.
-With as few changes as possible to the base system.  
-Changes are done through scripts & modules.
+- Based on the Latest Porteus Linux with the Cinnamon Desktop.
+- As few changes as possible to the base system.  
+- Changes are done through scripts & modules.
 
 **Added:**
 - Additional File System support (for Gparted)
@@ -17,7 +17,7 @@ Changes are done through scripts & modules.
 - fish shell  -  Friendly CLI Shell
 - hardinfo - System Info and Profiler
 
-**On-Demand AppImage Installations:**
+**On-Demand AppImage Programs:**
 - AppImage Pool - AppImageHub Package Manager
 - PaleMoon Browser - Small & Secure Browser
 - Zen Browser - Modern & Secure Web Browser
@@ -25,10 +25,11 @@ Changes are done through scripts & modules.
 - OnlyOffice - Full Office Suite
 - VeraCrypt - File Encryption
 - VirtualBox - VM Hypervisor
-- AppMan - AppImage Package Installer (AppImage list https://portable-linux-apps.github.io/apps)
+- AppMan - AppImage Package Installer (<a href="[http://example.com](https://portable-linux-apps.github.io/apps)" target="_blank">AppImage list here</a>)
 
       Usage:   -q‎ ‎ ‎ ‎ Querry
                -i ‎ ‎ ‎ Instal
+               -l    List
                -r‎ ‎ ‎ ‎ Remove
                Eg ‎  "appman -q browser"
 
