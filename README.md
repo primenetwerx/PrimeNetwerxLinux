@@ -1,4 +1,5 @@
 ### PrimeNetwerx Linux
+![PrimeNetwerxLinux](https://github.com/user-attachments/assets/482b6ae4-b40b-4f28-9978-e3dec2996e92)
 
 **Ultra Lightweight, Ligtning Fast, Portable & Immutable - Linux Operating System**
 
