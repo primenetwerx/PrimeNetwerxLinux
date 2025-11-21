@@ -27,7 +27,7 @@
 - VirtualBox - VM Hypervisor
 - AppMan - AppImage Package Installer (<a href="https://portable-linux-apps.github.io/apps" target="_blank">Application list here</a>)
 
-      Usage:   -q‎ ‎ ‎ ‎ Querry
+      Usage:   -q‎ ‎ ‎ ‎ Query
                -i ‎ ‎ ‎ Instal
                -l    List
                -r‎ ‎ ‎ ‎ Remove
