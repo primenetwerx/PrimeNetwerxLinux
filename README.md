@@ -25,7 +25,7 @@
 - OnlyOffice - Full Office Suite
 - VeraCrypt - File Encryption
 - VirtualBox - VM Hypervisor
-- AppMan - AppImage Package Installer (<a href="https://portable-linux-apps.github.io/apps" target="_blank">AppImage list here</a>)
+- AppMan - AppImage Package Installer (<a href="https://portable-linux-apps.github.io/apps" target="_blank">Application list here</a>)
 
       Usage:   -q‎ ‎ ‎ ‎ Querry
                -i ‎ ‎ ‎ Instal
