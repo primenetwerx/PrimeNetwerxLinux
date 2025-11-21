@@ -4,7 +4,6 @@
 **Ultra Lightweight, Ligtning Fast, Portable & Immutable - Linux Operating System**
 
 Based on the Latest Porteus Linux, with the Cinnamon Desktop.
-
 With as few changes as possible to the base system.  
 Changes are done through scripts & modules.
 
