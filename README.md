@@ -3,12 +3,13 @@
 
 **Ultra Lightweight, Ligtning Fast, Portable & Immutable - Linux Operating System**
 
-Based on the Latest Porteus Linux.
-As few changes as possible to the base system.  
+Based on the Latest Porteus Linux, with the Cinnamon Desktop.
+
+With as few changes as possible to the base system.  
 Changes are done through scripts & modules.
 
-**Included:**
-- Additional File System support
+**Added:**
+- Additional File System support (for Gparted)
 - clonezilla - Disk Cloning and Imaging
 - nano - CLI Text Editor
 - btop - CLI System Monitor
