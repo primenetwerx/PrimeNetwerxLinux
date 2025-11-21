@@ -1,13 +1,16 @@
 ### PrimeNetwerx Linux
 ![PrimeNetwerxLinux](https://github.com/user-attachments/assets/482b6ae4-b40b-4f28-9978-e3dec2996e92)
 
-**Ultra Lightweight, Ligtning Fast, Portable & Immutable - Linux Operating System**
+**Ultra Lightweight, Lightning Fast, Portable & Immutable**  
+**Under 500MB, Linux Learning & Rescue System**
 
-- Based on the Latest Porteus Linux with the Cinnamon Desktop.
-- As few changes as possible to the base system.  
+- Based on the Latest Porteus Linux with Cinnamon Desktop.
+- As few changes as possible to the base system.
 - Changes are done through scripts & modules.
+<br>
+<br>
 
-**Added:**
+**Added:**  
 - Additional File System support (for Gparted)
 - clonezilla - Disk Cloning and Imaging
 - nano - CLI Text Editor
@@ -16,6 +19,7 @@
 - axel - Download Accelerator
 - fish shell  -  Friendly CLI Shell
 - hardinfo - System Info and Profiler
+<br>
 
 **On-Demand AppImage Programs:**
 - AppImage Pool - AppImageHub Package Manager
@@ -35,3 +39,5 @@
 
 
 **Customized Theme & Desktop Effects**
+
+
