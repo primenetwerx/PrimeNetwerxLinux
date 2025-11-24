@@ -32,8 +32,9 @@
 - AppMan - AppImage Package Installer (<a href="https://portable-linux-apps.github.io/apps" target="_blank">Full application list here</a>)
 
       Usage:   -q‎ ‎ ‎ ‎ Query
-               -i ‎ ‎ ‎ Instal
-               -l    List
+               -l ‎ ‎ ‎ List
+               -i    Install
+               -f    Info
                -r‎ ‎ ‎ ‎ Remove
                Eg ‎  "appman -q browser"
 
